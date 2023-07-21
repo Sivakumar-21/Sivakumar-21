@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Junior+Software+Developer;UI/UX+Designer;Open+Source+Contributor'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Junior+Software+Developer;UI/UX+Designer'/>
 </div>
 
 - 🔭 I’m currently working on [Realtykaching](https://realtykaching.com/)
