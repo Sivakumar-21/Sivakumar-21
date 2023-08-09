@@ -20,6 +20,6 @@
 
 <div align=center>
 <!--   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Sivakumar-21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> -->
-  https://github-readme-stats.vercel.app/api?username=Sivakumar-21&theme=radical&show_icons=true
+ <img width="400" https://github-readme-stats.vercel.app/api?username=Sivakumar-21&theme=radical&show_icons=true />
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=Sivakumar-21&theme=tokyonight&hide_border=true" />
 </div>
