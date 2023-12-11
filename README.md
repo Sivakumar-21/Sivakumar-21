@@ -1,12 +1,12 @@
 <div align='center'>
-<h4><b> <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Junior+Software+Developer;UI/UX+Designer'/></b></h4>
+<h4><b> <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Software+Developer;UI/UX+Designer'/></b></h4>
 </div>
 
 - 🔭 I’m currently working on [Realtykaching](https://realtykaching.com/)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **php,Js,Html,css**
+- 💬 Ask me about **php,Js,Html,css,Figma**
 
 - 📫 How to reach me **sivakumar85260@gmail.com**
 
