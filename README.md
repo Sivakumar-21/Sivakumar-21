@@ -1,25 +1,92 @@
-<div align='center'>
-<h4><b> <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Software+Developer;UI/UX+Designer'/></b></h4>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=28&duration=3000&pause=800&color=16A085&center=true&vCenter=true&width=650&lines=Software+Developer;UI%2FUX+Designer;Flutter+Developer;Full+Stack+Engineer" />
+
 </div>
 
-- 🔭 I’m currently working on [Realtykaching](https://realtykaching.com/)
+---
 
-- 🌱 I’m currently learning **React**
+### 👨‍💻 About Me
 
-- 💬 Ask me about **php,Js,Html,css,Figma**
+- 🔭 Currently working on **Chicks / Poultry Management Systems**
+- 🌱 Learning **React** & **Flutter**
+- 💬 Ask me about **PHP, JavaScript, HTML, CSS, Flutter, Node.js, AWS, Figma**
+- 📫 Reach me at **sivakumar85260@gmail.com**
 
-- 📫 How to reach me **sivakumar85260@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/sivakumar-m-23135918a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivakumar-m-23135918a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sivakumar-m-23135918a" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<div align=center>
-<!--   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivakumar-21&theme=tokyonight" /> -->
- <img width="400" src="https://github-readme-stats.vercel.app/api?username=Sivakumar-21&theme=radical&show_icons=true" />
-  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=Sivakumar-21&theme=tokyonight&hide_border=true" />
+### 🛠️ Languages & Tools
+
+<p align="left">
+
+<!-- Frontend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+
+<!-- Backend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+
+<!-- Mobile -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" />
+
+<!-- DevOps / Cloud -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+
+<!-- UI/UX -->
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" />
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Sivakumar-21&theme=radical&show_icons=true&count_private=true" />
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=Sivakumar-21&theme=tokyonight&hide_border=true" />
 </div>
+
+---
+
+### 🐍 Contribution Graph Animation
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Sivakumar-21/Sivakumar-21/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### 🚀 What I Build
+
+- 🐔 **Chicks / Poultry Management Systems**
+- 🏠 **Real Estate Platforms**
+- 📱 **Flutter Mobile Applications**
+- 🎨 **Luxury UI/UX Dashboards**
+- ☁️ **AWS-Hosted Applications**
+
+---
+
+### ⚡ Fun Fact
+
+> I love turning **complex business logic** into **simple, elegant user experiences** ✨
